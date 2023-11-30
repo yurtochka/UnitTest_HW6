@@ -21,4 +21,4 @@ b. Сравнивает эти средние значения и выводит
 
 Покрытие тестами моего класса "TwoListsNum" - 100%:
 
-  https://github.com/yurtochka/UnitTest_HW6/blob/master/Покрытие%20тестов.jpg
+ ![Иллюстрация к проекту](https://github.com/yurtochka/UnitTest_HW6/blob/master/Покрытие%20тестов.jpg) 
