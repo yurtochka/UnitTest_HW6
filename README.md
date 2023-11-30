@@ -22,3 +22,8 @@ b. Сравнивает эти средние значения и выводит
 Покрытие тестами моего класса "TwoListsNum" - 100%:
 
  ![Иллюстрация к проекту](https://github.com/yurtochka/UnitTest_HW6/blob/master/Покрытие%20тестов.jpg) 
+
+
+Установила pylint:
+
+ ![pylint](https://github.com/yurtochka/UnitTest_HW6/blob/master/УстановкаPylint.jpg)
