@@ -24,6 +24,6 @@ b. Сравнивает эти средние значения и выводит
  ![Иллюстрация к проекту](https://github.com/yurtochka/UnitTest_HW6/blob/master/Покрытие%20тестов.jpg) 
 
 
-Установила pylint:
+Установила и сформировала отчет pylint:
 
- ![pylint](https://github.com/yurtochka/UnitTest_HW6/blob/master/УстановкаPylint.jpg)
+ ![pylint](https://github.com/yurtochka/UnitTest_HW6/blob/master/Отчет%20PyLint.jpg)
