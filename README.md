@@ -27,3 +27,5 @@ b. Сравнивает эти средние значения и выводит
 Установила и сформировала отчет pylint:
 
  ![pylint](https://github.com/yurtochka/UnitTest_HW6/blob/master/Отчет%20PyLint.jpg)
+
+Не успела исправить недочеты. Не оч поняла что за ошибка в import pytest, поясните? 
